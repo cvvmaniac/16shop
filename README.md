@@ -1,1 +1,1 @@
-Please read the README.txt
+Please read the README.txt first
