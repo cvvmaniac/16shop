@@ -1,1 +1,1 @@
-# 16shop
+Please read the README.txt
